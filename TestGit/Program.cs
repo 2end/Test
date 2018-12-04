@@ -12,6 +12,8 @@ namespace TestGit
         {
             Console.WriteLine("MASTER");
             Console.WriteLine("CONF1LICT");
+            Console.WriteLine("CONFLMASTERICT");
+            Console.WriteLine("RESOLVE");
         }
     }
 }
