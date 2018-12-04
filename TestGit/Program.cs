@@ -11,7 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("MASTER");
-            Console.WriteLine("CONFLMASTEfdbshifbshjufvdhusRNEWICT");
+            Console.WriteLine("CONFLMASTEfbfjdjshfdusyudbshifbshjufvdhusRNEWICT");
         }
     }
 }
