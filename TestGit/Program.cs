@@ -12,6 +12,7 @@ namespace TestGit
         {
             Console.WriteLine("MASTER");
             Console.WriteLine("CONFLusRICghifdgfduiTYURFTYhifghdiT");
+            var test = "HELLO";
         }
     }
 }
